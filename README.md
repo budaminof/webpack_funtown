@@ -1,1 +1,1 @@
-Webpack 2 practice
+Webpack 2 practice with Stephen Grinder.
